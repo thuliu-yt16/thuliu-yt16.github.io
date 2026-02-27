@@ -32,3 +32,50 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"cao":
+  - firstname: ["Yan-Pei", "Yanpei"]
+    url: https://yanpei.me/
+
+"zhang":
+  - firstname: ["Zhifei"]
+    url: https://zzutk.github.io
+
+  - firstname: ["Song-Hai", "Songhai"]
+    url: https://scholar.google.com/citations?user=AWtV-EQAAAAJ
+
+"yu":
+  - firstname: ["Xin"]
+    url: https://xinyu-andy.github.io/
+
+"guo":
+  - firstname: ["Yuan-Chen", "Yuanchen"]
+    url: https://scholar.google.com/citations?user=b7ZJV9oAAAAJ
+
+"qi":
+  - firstname: ["Xiaojuan"]
+    url: https://xjqi.github.io/
+
+"hu":
+  - firstname: ["Shimin", "Shi-Min"]
+    url: https://scholar.google.com/citations?user=LDb4tb0AAAAJ 
+
+"wang":
+  - firstname: ["Chen"]
+    url: https://cwchenwang.github.io/
+
+"luo":
+  - firstname: ["Guan"]
+    url: https://logan0601.github.io/
+
+"xu":
+  - firstname: ["Hao"]
+    url: https://xh38.github.io/
+
+"shamir":
+  - firstname: ["Ariel"]
+    url: https://faculty.runi.ac.il/arik/site/index.asp
+
+"li":
+  - firstname: ["Yangguang"]
+    url: https://yg256li.github.io/

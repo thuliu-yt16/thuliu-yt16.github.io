@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-20'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
     citations: 24
@@ -10,7 +10,7 @@ papers:
     title: Enhancing multi-scale implicit learning in image super-resolution with integrated positional encoding
     year: '2021'
   sjFapgUAAAAJ:IjCSPb-OGe4C:
-    citations: 200
+    citations: 201
     title: 'threestudio: A unified framework for 3d content generation'
     year: '2023'
   sjFapgUAAAAJ:LkGwnXOMwfcC:
@@ -66,6 +66,6 @@ papers:
     title: Color-Correlated Texture Synthesis for Hybrid Indoor Scenes
     year: '2023'
   sjFapgUAAAAJ:zYLM7Y9cAGgC:
-    citations: 26
+    citations: 27
     title: 'Pi3d: Efficient text-to-3d generation with pseudo-image diffusion'
     year: '2024'

@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-23'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
-    citations: 24
+    citations: 25
     title: 'Dualvector: Unsupervised vector font synthesis with dual-part representation'
     year: '2023'
   sjFapgUAAAAJ:9yKSN-GCB0IC:
@@ -22,7 +22,7 @@ papers:
     title: 'Ppea-depth: Progressive parameter-efficient adaptation for self-supervised monocular depth estimation'
     year: '2024'
   sjFapgUAAAAJ:W7OEmFMy1HYC:
-    citations: 11
+    citations: 12
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
@@ -34,7 +34,7 @@ papers:
     title: 'Texgen: a generative diffusion model for mesh textures'
     year: '2024'
   sjFapgUAAAAJ:_FxGoFyzp5QC:
-    citations: 25
+    citations: 26
     title: 'Omnipart: Part-aware 3d generation with semantic decoupling and structural cohesion'
     year: '2025'
   sjFapgUAAAAJ:d1gkVwhDpl0C:
@@ -46,7 +46,7 @@ papers:
     title: 'Threestudio: A modular framework for diffusion-guided 3d generation'
     year: '2023'
   sjFapgUAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 7
     title: Joint implicit neural representation for high-fidelity and compact vector fonts
     year: '2023'
   sjFapgUAAAAJ:roLk4NBRz8UC:

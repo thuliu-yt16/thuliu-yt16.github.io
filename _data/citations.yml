@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-01'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
     citations: 25
     title: 'Dualvector: Unsupervised vector font synthesis with dual-part representation'
     year: '2023'
   sjFapgUAAAAJ:9yKSN-GCB0IC:
-    citations: 20
+    citations: 21
     title: Enhancing multi-scale implicit learning in image super-resolution with integrated positional encoding
     year: '2021'
   sjFapgUAAAAJ:IjCSPb-OGe4C:
@@ -34,7 +34,7 @@ papers:
     title: 'Texgen: a generative diffusion model for mesh textures'
     year: '2024'
   sjFapgUAAAAJ:_FxGoFyzp5QC:
-    citations: 26
+    citations: 27
     title: 'Omnipart: Part-aware 3d generation with semantic decoupling and structural cohesion'
     year: '2025'
   sjFapgUAAAAJ:d1gkVwhDpl0C:

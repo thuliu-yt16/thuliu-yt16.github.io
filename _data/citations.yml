@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-24'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
     citations: 25
@@ -10,13 +10,17 @@ papers:
     title: Enhancing multi-scale implicit learning in image super-resolution with integrated positional encoding
     year: '2021'
   sjFapgUAAAAJ:IjCSPb-OGe4C:
-    citations: 204
+    citations: 206
     title: 'threestudio: A unified framework for 3d content generation'
     year: '2023'
   sjFapgUAAAAJ:LkGwnXOMwfcC:
     citations: 1
     title: 'NeuFrameQ: Neural Frame Fields for Scalable and Generalizable Anisotropic Quadrangulation'
     year: '2025'
+  sjFapgUAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: 'FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation'
+    year: '2026'
   sjFapgUAAAAJ:Tyk-4Ss8FVUC:
     citations: 13
     title: 'Ppea-depth: Progressive parameter-efficient adaptation for self-supervised monocular depth estimation'
@@ -26,7 +30,7 @@ papers:
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
-    citations: 32
+    citations: 33
     title: 'Diffusion models for 3D generation: A survey'
     year: '2025'
   sjFapgUAAAAJ:YsMSGLbcyi4C:

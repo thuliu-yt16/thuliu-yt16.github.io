@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-04'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
     citations: 25
     title: 'Dualvector: Unsupervised vector font synthesis with dual-part representation'
     year: '2023'
   sjFapgUAAAAJ:9yKSN-GCB0IC:
-    citations: 21
+    citations: 22
     title: Enhancing multi-scale implicit learning in image super-resolution with integrated positional encoding
     year: '2021'
   sjFapgUAAAAJ:IjCSPb-OGe4C:
@@ -30,15 +30,15 @@ papers:
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
-    citations: 33
+    citations: 35
     title: 'Diffusion models for 3D generation: A survey'
     year: '2025'
   sjFapgUAAAAJ:YsMSGLbcyi4C:
-    citations: 44
+    citations: 46
     title: 'Texgen: a generative diffusion model for mesh textures'
     year: '2024'
   sjFapgUAAAAJ:_FxGoFyzp5QC:
-    citations: 30
+    citations: 32
     title: 'Omnipart: Part-aware 3d generation with semantic decoupling and structural cohesion'
     year: '2025'
   sjFapgUAAAAJ:d1gkVwhDpl0C:
@@ -58,7 +58,7 @@ papers:
     title: "LegoACE: Autoregressive Construction Engine for Expressive LEGO\xAE Assemblies"
     year: '2025'
   sjFapgUAAAAJ:u-x6o8ySG0sC:
-    citations: 5
+    citations: 6
     title: Scale-aware insertion of virtual objects in monocular videos
     year: '2020'
   sjFapgUAAAAJ:u5HHmVD_uO8C:
@@ -70,6 +70,6 @@ papers:
     title: Color-Correlated Texture Synthesis for Hybrid Indoor Scenes
     year: '2023'
   sjFapgUAAAAJ:zYLM7Y9cAGgC:
-    citations: 27
+    citations: 28
     title: 'Pi3d: Efficient text-to-3d generation with pseudo-image diffusion'
     year: '2024'

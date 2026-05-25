@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-25'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
-    citations: 25
+    citations: 27
     title: 'Dualvector: Unsupervised vector font synthesis with dual-part representation'
     year: '2023'
   sjFapgUAAAAJ:9yKSN-GCB0IC:
@@ -10,11 +10,11 @@ papers:
     title: Enhancing multi-scale implicit learning in image super-resolution with integrated positional encoding
     year: '2021'
   sjFapgUAAAAJ:IjCSPb-OGe4C:
-    citations: 206
+    citations: 211
     title: 'threestudio: A unified framework for 3d content generation'
     year: '2023'
   sjFapgUAAAAJ:LkGwnXOMwfcC:
-    citations: 1
+    citations: 2
     title: 'NeuFrameQ: Neural Frame Fields for Scalable and Generalizable Anisotropic Quadrangulation'
     year: '2025'
   sjFapgUAAAAJ:Se3iqnhoufwC:
@@ -26,27 +26,27 @@ papers:
     title: 'Ppea-depth: Progressive parameter-efficient adaptation for self-supervised monocular depth estimation'
     year: '2024'
   sjFapgUAAAAJ:W7OEmFMy1HYC:
-    citations: 12
+    citations: 13
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
-    citations: 35
+    citations: 37
     title: 'Diffusion models for 3D generation: A survey'
     year: '2025'
   sjFapgUAAAAJ:YsMSGLbcyi4C:
-    citations: 46
+    citations: 48
     title: 'Texgen: a generative diffusion model for mesh textures'
     year: '2024'
   sjFapgUAAAAJ:_FxGoFyzp5QC:
-    citations: 32
+    citations: 35
     title: 'Omnipart: Part-aware 3d generation with semantic decoupling and structural cohesion'
     year: '2025'
   sjFapgUAAAAJ:d1gkVwhDpl0C:
-    citations: 21
+    citations: 22
     title: Context-consistent generation of indoor virtual environments based on geometry constraints
     year: '2021'
   sjFapgUAAAAJ:eQOLeE2rZwMC:
-    citations: 11
+    citations: 12
     title: 'Threestudio: A modular framework for diffusion-guided 3d generation'
     year: '2023'
   sjFapgUAAAAJ:qjMakFHDy7sC:
@@ -70,6 +70,6 @@ papers:
     title: Color-Correlated Texture Synthesis for Hybrid Indoor Scenes
     year: '2023'
   sjFapgUAAAAJ:zYLM7Y9cAGgC:
-    citations: 28
+    citations: 29
     title: 'Pi3d: Efficient text-to-3d generation with pseudo-image diffusion'
     year: '2024'

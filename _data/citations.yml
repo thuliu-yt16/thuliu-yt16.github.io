@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-05-29'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
     citations: 27
@@ -30,7 +30,7 @@ papers:
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
-    citations: 37
+    citations: 38
     title: 'Diffusion models for 3D generation: A survey'
     year: '2025'
   sjFapgUAAAAJ:YsMSGLbcyi4C:

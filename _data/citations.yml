@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-08'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
-    citations: 28
+    citations: 29
     title: 'Dualvector: Unsupervised vector font synthesis with dual-part representation'
     year: '2023'
   sjFapgUAAAAJ:9yKSN-GCB0IC:
@@ -30,7 +30,7 @@ papers:
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
-    citations: 40
+    citations: 42
     title: 'Diffusion models for 3D generation: A survey'
     year: '2025'
   sjFapgUAAAAJ:YsMSGLbcyi4C:

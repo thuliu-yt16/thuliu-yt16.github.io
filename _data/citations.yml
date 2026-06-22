@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-22'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
     citations: 28
@@ -10,7 +10,7 @@ papers:
     title: Enhancing multi-scale implicit learning in image super-resolution with integrated positional encoding
     year: '2021'
   sjFapgUAAAAJ:IjCSPb-OGe4C:
-    citations: 213
+    citations: 212
     title: 'threestudio: A unified framework for 3d content generation'
     year: '2023'
   sjFapgUAAAAJ:LkGwnXOMwfcC:
@@ -22,15 +22,15 @@ papers:
     title: 'FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation'
     year: '2026'
   sjFapgUAAAAJ:Tyk-4Ss8FVUC:
-    citations: 15
+    citations: 16
     title: 'Ppea-depth: Progressive parameter-efficient adaptation for self-supervised monocular depth estimation'
     year: '2024'
   sjFapgUAAAAJ:W7OEmFMy1HYC:
-    citations: 13
+    citations: 14
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
-    citations: 46
+    citations: 47
     title: 'Diffusion models for 3D generation: A survey'
     year: '2025'
   sjFapgUAAAAJ:YsMSGLbcyi4C:
@@ -38,7 +38,7 @@ papers:
     title: 'Texgen: a generative diffusion model for mesh textures'
     year: '2024'
   sjFapgUAAAAJ:_FxGoFyzp5QC:
-    citations: 41
+    citations: 42
     title: 'Omnipart: Part-aware 3d generation with semantic decoupling and structural cohesion'
     year: '2025'
   sjFapgUAAAAJ:d1gkVwhDpl0C:
@@ -46,7 +46,7 @@ papers:
     title: Context-consistent generation of indoor virtual environments based on geometry constraints
     year: '2021'
   sjFapgUAAAAJ:eQOLeE2rZwMC:
-    citations: 12
+    citations: 13
     title: 'Threestudio: A modular framework for diffusion-guided 3d generation'
     year: '2023'
   sjFapgUAAAAJ:qjMakFHDy7sC:

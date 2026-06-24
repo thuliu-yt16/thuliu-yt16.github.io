@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-24'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
     citations: 28
@@ -14,7 +14,7 @@ papers:
     title: 'threestudio: A unified framework for 3d content generation'
     year: '2023'
   sjFapgUAAAAJ:LkGwnXOMwfcC:
-    citations: 2
+    citations: 3
     title: 'NeuFrameQ: Neural Frame Fields for Scalable and Generalizable Anisotropic Quadrangulation'
     year: '2025'
   sjFapgUAAAAJ:Se3iqnhoufwC:
@@ -30,7 +30,7 @@ papers:
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
-    citations: 47
+    citations: 48
     title: 'Diffusion models for 3D generation: A survey'
     year: '2025'
   sjFapgUAAAAJ:YsMSGLbcyi4C:
@@ -38,7 +38,7 @@ papers:
     title: 'Texgen: a generative diffusion model for mesh textures'
     year: '2024'
   sjFapgUAAAAJ:_FxGoFyzp5QC:
-    citations: 42
+    citations: 43
     title: 'Omnipart: Part-aware 3d generation with semantic decoupling and structural cohesion'
     year: '2025'
   sjFapgUAAAAJ:d1gkVwhDpl0C:

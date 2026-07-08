@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-08'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
-    citations: 28
+    citations: 29
     title: 'Dualvector: Unsupervised vector font synthesis with dual-part representation'
     year: '2023'
   sjFapgUAAAAJ:9yKSN-GCB0IC:
-    citations: 22
+    citations: 23
     title: Enhancing multi-scale implicit learning in image super-resolution with integrated positional encoding
     year: '2021'
   sjFapgUAAAAJ:IjCSPb-OGe4C:
-    citations: 212
+    citations: 215
     title: 'threestudio: A unified framework for 3d content generation'
     year: '2023'
   sjFapgUAAAAJ:LkGwnXOMwfcC:
@@ -22,23 +22,23 @@ papers:
     title: 'FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation'
     year: '2026'
   sjFapgUAAAAJ:Tyk-4Ss8FVUC:
-    citations: 16
+    citations: 17
     title: 'Ppea-depth: Progressive parameter-efficient adaptation for self-supervised monocular depth estimation'
     year: '2024'
   sjFapgUAAAAJ:W7OEmFMy1HYC:
-    citations: 14
+    citations: 15
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
-    citations: 48
+    citations: 51
     title: 'Diffusion models for 3D generation: A survey'
     year: '2025'
   sjFapgUAAAAJ:YsMSGLbcyi4C:
-    citations: 51
+    citations: 53
     title: 'Texgen: a generative diffusion model for mesh textures'
     year: '2024'
   sjFapgUAAAAJ:_FxGoFyzp5QC:
-    citations: 43
+    citations: 45
     title: 'Omnipart: Part-aware 3d generation with semantic decoupling and structural cohesion'
     year: '2025'
   sjFapgUAAAAJ:d1gkVwhDpl0C:

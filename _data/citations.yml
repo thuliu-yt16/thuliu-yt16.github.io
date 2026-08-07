@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-07'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
-    citations: 29
+    citations: 30
     title: 'Dualvector: Unsupervised vector font synthesis with dual-part representation'
     year: '2023'
   sjFapgUAAAAJ:9yKSN-GCB0IC:
@@ -10,19 +10,19 @@ papers:
     title: Enhancing multi-scale implicit learning in image super-resolution with integrated positional encoding
     year: '2021'
   sjFapgUAAAAJ:IjCSPb-OGe4C:
-    citations: 215
+    citations: 214
     title: 'threestudio: A unified framework for 3d content generation'
     year: '2023'
   sjFapgUAAAAJ:LkGwnXOMwfcC:
-    citations: 3
-    title: 'NeuFrameQ: Neural Frame Fields for Scalable and Generalizable Anisotropic Quadrangulation'
+    citations: 4
+    title: 'NeuFrameQ: Neural frame fields for scalable and generalizable anisotropic quadrangulation'
     year: '2025'
   sjFapgUAAAAJ:Se3iqnhoufwC:
     citations: 1
     title: 'FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation'
     year: '2026'
   sjFapgUAAAAJ:Tyk-4Ss8FVUC:
-    citations: 17
+    citations: 16
     title: 'Ppea-depth: Progressive parameter-efficient adaptation for self-supervised monocular depth estimation'
     year: '2024'
   sjFapgUAAAAJ:UebtZRa9Y70C:
@@ -30,15 +30,15 @@ papers:
     title: 'Nexus: Native Mesh Generation with Diffusion'
     year: '2026'
   sjFapgUAAAAJ:W7OEmFMy1HYC:
-    citations: 15
+    citations: 17
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
-    citations: 58
+    citations: 60
     title: 'Diffusion models for 3D generation: A survey'
     year: '2025'
   sjFapgUAAAAJ:YsMSGLbcyi4C:
-    citations: 59
+    citations: 61
     title: 'Texgen: a generative diffusion model for mesh textures'
     year: '2024'
   sjFapgUAAAAJ:_FxGoFyzp5QC:
@@ -50,7 +50,7 @@ papers:
     title: Context-consistent generation of indoor virtual environments based on geometry constraints
     year: '2021'
   sjFapgUAAAAJ:eQOLeE2rZwMC:
-    citations: 13
+    citations: 12
     title: 'Threestudio: A modular framework for diffusion-guided 3d generation'
     year: '2023'
   sjFapgUAAAAJ:qjMakFHDy7sC:
@@ -74,6 +74,6 @@ papers:
     title: Color-Correlated Texture Synthesis for Hybrid Indoor Scenes
     year: '2023'
   sjFapgUAAAAJ:zYLM7Y9cAGgC:
-    citations: 29
+    citations: 30
     title: 'Pi3d: Efficient text-to-3d generation with pseudo-image diffusion'
     year: '2024'

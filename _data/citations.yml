@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-09-02'
 papers:
   sjFapgUAAAAJ:2osOgNQ5qMEC:
-    citations: 30
+    citations: 31
     title: 'Dualvector: Unsupervised vector font synthesis with dual-part representation'
     year: '2023'
   sjFapgUAAAAJ:9yKSN-GCB0IC:
@@ -10,7 +10,7 @@ papers:
     title: Enhancing multi-scale implicit learning in image super-resolution with integrated positional encoding
     year: '2021'
   sjFapgUAAAAJ:IjCSPb-OGe4C:
-    citations: 214
+    citations: 219
     title: 'threestudio: A unified framework for 3d content generation'
     year: '2023'
   sjFapgUAAAAJ:LkGwnXOMwfcC:
@@ -18,7 +18,7 @@ papers:
     title: 'NeuFrameQ: Neural frame fields for scalable and generalizable anisotropic quadrangulation'
     year: '2025'
   sjFapgUAAAAJ:Se3iqnhoufwC:
-    citations: 1
+    citations: 2
     title: 'FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation'
     year: '2026'
   sjFapgUAAAAJ:Tyk-4Ss8FVUC:
@@ -26,7 +26,7 @@ papers:
     title: 'Ppea-depth: Progressive parameter-efficient adaptation for self-supervised monocular depth estimation'
     year: '2024'
   sjFapgUAAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: 'Nexus: Native Mesh Generation with Diffusion'
     year: '2026'
   sjFapgUAAAAJ:W7OEmFMy1HYC:
@@ -34,25 +34,29 @@ papers:
     title: 3d gaussian editing with a single image
     year: '2024'
   sjFapgUAAAAJ:WF5omc3nYNoC:
-    citations: 60
+    citations: 66
     title: 'Diffusion models for 3D generation: A survey'
     year: '2025'
   sjFapgUAAAAJ:YsMSGLbcyi4C:
-    citations: 61
+    citations: 64
     title: 'Texgen: a generative diffusion model for mesh textures'
     year: '2024'
   sjFapgUAAAAJ:_FxGoFyzp5QC:
-    citations: 47
+    citations: 54
     title: 'Omnipart: Part-aware 3d generation with semantic decoupling and structural cohesion'
     year: '2025'
   sjFapgUAAAAJ:d1gkVwhDpl0C:
-    citations: 22
+    citations: 23
     title: Context-consistent generation of indoor virtual environments based on geometry constraints
     year: '2021'
   sjFapgUAAAAJ:eQOLeE2rZwMC:
     citations: 12
     title: 'Threestudio: A modular framework for diffusion-guided 3d generation'
     year: '2023'
+  sjFapgUAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: 'SeamGen: Artist-Aligned UV Seam Generation via Graph Flow Matching'
+    year: '2026'
   sjFapgUAAAAJ:qjMakFHDy7sC:
     citations: 8
     title: Joint implicit neural representation for high-fidelity and compact vector fonts
